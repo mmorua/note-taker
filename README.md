@@ -95,5 +95,5 @@ Tests have been written in the `__tests__` folder to check if an object has the 
 
 ## Contact Me
 
-GitHub Link: (https://github.com/nicnolen)<br>
-Email Address: <nicnolen@ymail.com>
+GitHub Link: (https://github.com/mmorua)<br>
+Email Address: <marcus.morua@gmail.com>
